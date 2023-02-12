@@ -32,7 +32,6 @@
     color: var(--branco);
     background: url("../img/Lupa.svg") no-repeat;
     background-position: 1em;
-    background-origin: content-box;
 
 }
 
